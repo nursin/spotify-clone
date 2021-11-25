@@ -1,5 +1,6 @@
 import React from 'react';
 import Body from './Body';
+import Footer from './Footer';
 import './Player.css';
 import Sidebar from './Sidebar';
 
@@ -10,8 +11,7 @@ function Player() {
                 <Sidebar />
                 <Body />
             </div>
-            {/* body */}
-            {/* footer */}
+            <Footer />
         </div>
     )
 }
