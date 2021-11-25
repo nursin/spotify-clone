@@ -53,10 +53,6 @@ function App() {
           <Login />
         )
       }
-      {/* Spotify Logo */}
-      {/* Login with spotify button */}
-
-
     </div>
   );
 }
